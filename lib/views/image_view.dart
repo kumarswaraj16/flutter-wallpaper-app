@@ -95,7 +95,7 @@ class _ImageViewState extends State<ImageView> {
                               ),
                             ),
                             Text(
-                              "Image will be saved in gallery",
+                              "Images will be saved in gallery",
                               style: TextStyle(
                                 fontSize: 10,
                                 color: Colors.white70,
